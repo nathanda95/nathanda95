@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=nathanda95&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nathanda95&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **nathanda95/nathanda95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
