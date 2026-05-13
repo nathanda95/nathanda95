@@ -107,18 +107,6 @@ Quelques exemples :
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathanda95&show_icons=true&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanda95&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Trophées GitHub
 
 <p align="center">
